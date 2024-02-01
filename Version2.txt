@@ -1,0 +1,194 @@
+--- Preparing Data ---
+tcmalloc: large alloc 1228800000 bytes == 0x1c072000 @  0x7f14939901e7 0x7f14912e10ce 0x7f1491337cf5 0x7f14913e086d 0x7f14913e117f 0x7f14913e12d0 0x4ba72b 0x7f1491322944 0x58f67f 0x50ff13 0x5b4ee6 0x58ff2e 0x50d482 0x58fd37 0x50c4fc 0x58fd37 0x50c4fc 0x5b4ee6 0x6005a3 0x607796 0x60785c 0x60a436 0x64db82 0x64dd2e 0x7f149358dc87 0x5b636a
+Using cuda device
+### Training... ###
+Epoch 1 Loss 1.675681 Duration 122.146 seconds.
+Epoch 2 Loss 1.358612 Duration 118.026 seconds.
+Epoch 3 Loss 0.907389 Duration 118.401 seconds.
+Epoch 4 Loss 0.820122 Duration 117.416 seconds.
+Epoch 5 Loss 0.978654 Duration 118.228 seconds.
+Epoch 6 Loss 0.768838 Duration 118.142 seconds.
+Epoch 7 Loss 0.618724 Duration 118.196 seconds.
+Epoch 8 Loss 0.447273 Duration 118.449 seconds.
+Epoch 9 Loss 0.731959 Duration 118.343 seconds.
+Epoch 10 Loss 0.628646 Duration 118.160 seconds.
+Checkpoint has been created.
+Epoch 11 Loss 0.508103 Duration 118.434 seconds.
+Epoch 12 Loss 0.427843 Duration 118.400 seconds.
+Epoch 13 Loss 0.486423 Duration 118.172 seconds.
+Epoch 14 Loss 0.283727 Duration 118.134 seconds.
+Epoch 15 Loss 0.614309 Duration 118.377 seconds.
+Epoch 16 Loss 0.495796 Duration 118.100 seconds.
+Epoch 17 Loss 0.360788 Duration 118.282 seconds.
+Epoch 18 Loss 0.422807 Duration 118.248 seconds.
+Epoch 19 Loss 0.402745 Duration 118.481 seconds.
+Epoch 20 Loss 0.400654 Duration 117.758 seconds.
+Checkpoint has been created.
+Epoch 21 Loss 0.423809 Duration 119.264 seconds.
+Epoch 22 Loss 0.468240 Duration 119.530 seconds.
+Epoch 23 Loss 0.441965 Duration 118.399 seconds.
+Epoch 24 Loss 0.303660 Duration 117.878 seconds.
+Epoch 25 Loss 0.295388 Duration 118.397 seconds.
+Epoch 26 Loss 0.348446 Duration 117.967 seconds.
+Epoch 27 Loss 0.314136 Duration 117.973 seconds.
+Epoch 28 Loss 0.272812 Duration 117.957 seconds.
+Epoch 29 Loss 0.339939 Duration 117.861 seconds.
+Epoch 30 Loss 0.255720 Duration 117.600 seconds.
+Checkpoint has been created.
+Epoch 31 Loss 0.339771 Duration 118.403 seconds.
+Epoch 32 Loss 0.319767 Duration 117.445 seconds.
+Epoch 33 Loss 0.308960 Duration 117.494 seconds.
+Epoch 34 Loss 0.293013 Duration 117.757 seconds.
+Epoch 35 Loss 0.254420 Duration 117.714 seconds.
+Epoch 36 Loss 0.250413 Duration 117.739 seconds.
+Epoch 37 Loss 0.204139 Duration 117.711 seconds.
+Epoch 38 Loss 0.254563 Duration 117.612 seconds.
+Epoch 39 Loss 0.266242 Duration 117.674 seconds.
+Epoch 40 Loss 0.421805 Duration 117.347 seconds.
+Checkpoint has been created.
+Epoch 41 Loss 0.294483 Duration 117.495 seconds.
+Epoch 42 Loss 0.315100 Duration 117.934 seconds.
+Epoch 43 Loss 0.441399 Duration 117.716 seconds.
+Epoch 44 Loss 0.350575 Duration 117.833 seconds.
+Epoch 45 Loss 0.346020 Duration 117.565 seconds.
+Epoch 46 Loss 0.535848 Duration 117.549 seconds.
+Epoch 47 Loss 0.276930 Duration 117.329 seconds.
+Epoch 48 Loss 0.397458 Duration 117.389 seconds.
+Epoch 49 Loss 0.313786 Duration 117.683 seconds.
+Epoch 50 Loss 0.310321 Duration 117.895 seconds.
+Checkpoint has been created.
+Epoch 51 Loss 0.248109 Duration 118.261 seconds.
+Epoch 52 Loss 0.149022 Duration 117.975 seconds.
+Epoch 53 Loss 0.238293 Duration 118.342 seconds.
+Epoch 54 Loss 0.382980 Duration 117.873 seconds.
+Epoch 55 Loss 0.183293 Duration 118.589 seconds.
+Epoch 56 Loss 0.255850 Duration 118.376 seconds.
+Epoch 57 Loss 0.344008 Duration 118.297 seconds.
+Epoch 58 Loss 0.294776 Duration 118.277 seconds.
+Epoch 59 Loss 0.209932 Duration 118.224 seconds.
+Epoch 60 Loss 0.359829 Duration 118.092 seconds.
+Checkpoint has been created.
+Epoch 61 Loss 0.315518 Duration 117.621 seconds.
+Epoch 62 Loss 0.198196 Duration 117.499 seconds.
+Epoch 63 Loss 0.229297 Duration 117.364 seconds.
+Epoch 64 Loss 0.288755 Duration 117.875 seconds.
+Epoch 65 Loss 0.382836 Duration 117.815 seconds.
+Epoch 66 Loss 0.163099 Duration 117.630 seconds.
+Epoch 67 Loss 0.249302 Duration 117.501 seconds.
+Epoch 68 Loss 0.320657 Duration 117.458 seconds.
+Epoch 69 Loss 0.244948 Duration 116.903 seconds.
+Epoch 70 Loss 0.246495 Duration 117.379 seconds.
+Checkpoint has been created.
+Epoch 71 Loss 0.283090 Duration 117.500 seconds.
+Epoch 72 Loss 0.241911 Duration 117.911 seconds.
+Epoch 73 Loss 0.217461 Duration 117.581 seconds.
+Epoch 74 Loss 0.297773 Duration 118.191 seconds.
+Epoch 75 Loss 0.356912 Duration 117.445 seconds.
+Epoch 76 Loss 0.260260 Duration 117.736 seconds.
+Epoch 77 Loss 0.251044 Duration 117.295 seconds.
+Epoch 78 Loss 0.268691 Duration 117.832 seconds.
+Epoch 79 Loss 0.386179 Duration 117.485 seconds.
+Epoch 80 Loss 0.326096 Duration 118.205 seconds.
+Checkpoint has been created.
+Epoch 81 Loss 0.337248 Duration 117.353 seconds.
+Epoch 82 Loss 0.320138 Duration 117.656 seconds.
+Epoch 83 Loss 0.247501 Duration 117.632 seconds.
+Epoch 84 Loss 0.408144 Duration 117.378 seconds.
+Epoch 85 Loss 0.274050 Duration 117.717 seconds.
+Epoch 86 Loss 0.248042 Duration 117.225 seconds.
+Epoch 87 Loss 0.213529 Duration 117.398 seconds.
+Epoch 88 Loss 0.304530 Duration 117.378 seconds.
+Epoch 89 Loss 0.204641 Duration 117.262 seconds.
+Epoch 90 Loss 0.318828 Duration 117.458 seconds.
+Checkpoint has been created.
+Epoch 91 Loss 0.119399 Duration 117.091 seconds.
+Epoch 92 Loss 0.287731 Duration 117.806 seconds.
+Epoch 93 Loss 0.332155 Duration 117.467 seconds.
+Epoch 94 Loss 0.252301 Duration 117.691 seconds.
+Epoch 95 Loss 0.070960 Duration 117.221 seconds.
+Epoch 96 Loss 0.132312 Duration 117.502 seconds.
+Epoch 97 Loss 0.033834 Duration 117.333 seconds.
+Epoch 98 Loss 0.042253 Duration 117.959 seconds.
+Epoch 99 Loss 0.028994 Duration 117.176 seconds.
+Epoch 100 Loss 0.081678 Duration 117.660 seconds.
+Checkpoint has been created.
+Epoch 101 Loss 0.094440 Duration 117.072 seconds.
+Epoch 102 Loss 0.050345 Duration 118.005 seconds.
+Epoch 103 Loss 0.069376 Duration 117.131 seconds.
+Epoch 104 Loss 0.028610 Duration 116.699 seconds.
+Epoch 105 Loss 0.048618 Duration 116.855 seconds.
+Epoch 106 Loss 0.036088 Duration 117.383 seconds.
+Epoch 107 Loss 0.013446 Duration 117.255 seconds.
+Epoch 108 Loss 0.017841 Duration 117.322 seconds.
+Epoch 109 Loss 0.010052 Duration 117.215 seconds.
+Epoch 110 Loss 0.040885 Duration 117.432 seconds.
+Checkpoint has been created.
+Epoch 111 Loss 0.016503 Duration 117.224 seconds.
+Epoch 112 Loss 0.024681 Duration 117.998 seconds.
+Epoch 113 Loss 0.012640 Duration 117.457 seconds.
+Epoch 114 Loss 0.025675 Duration 117.609 seconds.
+Epoch 115 Loss 0.020395 Duration 117.358 seconds.
+Epoch 116 Loss 0.026472 Duration 117.760 seconds.
+
+
+
+
+
+--- Preparing Data ---
+tcmalloc: large alloc 1228800000 bytes == 0x1c618000 @  0x7f9a2c6481e7 0x7f9a29fd90ce 0x7f9a2a02fcf5 0x7f9a2a0d886d 0x7f9a2a0d917f 0x7f9a2a0d92d0 0x4ba72b 0x7f9a2a01a944 0x58f67f 0x50ff13 0x5b4ee6 0x58ff2e 0x50d482 0x58fd37 0x50c4fc 0x58fd37 0x50c4fc 0x5b4ee6 0x6005a3 0x607796 0x60785c 0x60a436 0x64db82 0x64dd2e 0x7f9a2c245c87 0x5b636a
+Using cuda device
+Restored model parameters from /content/drive/MyDrive/ResNet/model_v2/model-90.ckpt
+### Training... ###
+Epoch 91 Loss 0.237485 Duration 120.722 seconds.
+Epoch 92 Loss 0.126214 Duration 119.703 seconds.
+Epoch 93 Loss 0.211043 Duration 120.576 seconds.
+Epoch 94 Loss 0.258389 Duration 120.334 seconds.
+Epoch 95 Loss 0.141077 Duration 120.406 seconds.
+Epoch 96 Loss 0.118322 Duration 120.459 seconds.
+Epoch 97 Loss 0.070009 Duration 120.322 seconds.
+Epoch 98 Loss 0.039141 Duration 120.188 seconds.
+Epoch 99 Loss 0.067419 Duration 119.936 seconds.
+Epoch 100 Loss 0.089066 Duration 120.245 seconds.
+Checkpoint has been created.
+Epoch 101 Loss 0.055996 Duration 119.978 seconds.
+Epoch 102 Loss 0.045447 Duration 119.814 seconds.
+Epoch 103 Loss 0.020437 Duration 119.892 seconds.
+Epoch 104 Loss 0.020245 Duration 119.827 seconds.
+Epoch 105 Loss 0.007162 Duration 119.441 seconds.
+Epoch 106 Loss 0.078248 Duration 119.837 seconds.
+Epoch 107 Loss 0.061933 Duration 119.860 seconds.
+Epoch 108 Loss 0.044369 Duration 119.592 seconds.
+Epoch 109 Loss 0.031180 Duration 119.750 seconds.
+Epoch 110 Loss 0.005670 Duration 120.093 seconds.
+Checkpoint has been created.
+Epoch 111 Loss 0.012814 Duration 119.858 seconds.
+Epoch 112 Loss 0.033699 Duration 119.692 seconds.
+Epoch 113 Loss 0.020911 Duration 119.969 seconds.
+Epoch 114 Loss 0.009984 Duration 119.964 seconds.
+Epoch 115 Loss 0.011757 Duration 119.600 seconds.
+Epoch 116 Loss 0.013819 Duration 119.743 seconds.
+Epoch 117 Loss 0.004775 Duration 119.707 seconds.
+Epoch 118 Loss 0.010550 Duration 119.879 seconds.
+Epoch 119 Loss 0.015565 Duration 119.692 seconds.
+Epoch 120 Loss 0.032362 Duration 119.791 seconds.
+Checkpoint has been created.
+Epoch 121 Loss 0.019400 Duration 119.971 seconds.
+Epoch 122 Loss 0.008926 Duration 119.817 seconds.
+Traceback (most recent call last):
+  File "/content/drive/MyDrive/ResNet/main.py", line 52, in <module>
+    main(config)
+  File "/content/drive/MyDrive/ResNet/main.py", line 37, in main
+    model.train(x_train_new, y_train_new, 200)
+  File "/content/drive/MyDrive/ResNet/Model.py", line 74, in train
+    self.optimizer.step()
+  File "/usr/local/lib/python3.7/dist-packages/torch/optim/optimizer.py", line 113, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/torch/optim/sgd.py", line 156, in step
+    foreach=group['foreach'])
+  File "/usr/local/lib/python3.7/dist-packages/torch/optim/sgd.py", line 206, in sgd
+    maximize=maximize)
+  File "/usr/local/lib/python3.7/dist-packages/torch/optim/sgd.py", line 224, in _single_tensor_sgd
+    d_p = d_p.add(param, alpha=weight_decay)
+KeyboardInterrupt
